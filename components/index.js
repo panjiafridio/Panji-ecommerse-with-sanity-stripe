@@ -11,3 +11,4 @@ export { default as FeaturedItem } from './FeaturedItem';
 export { default as Products } from './Products';
 export { default as About } from './About';
 export { default as SpecialItems } from './SpecialItems';
+export { default as Contact } from './Contact';
